@@ -13,4 +13,4 @@ Start the server in one of the nodes of the hadoop cluster. Use the UI php scrip
 
 Architecture:
 
-![piglet](https://github.com/kushaldudani/Piglet/blob/master/img/piglet_arc.png)
+![piglet](https://raw.github.com/kushaldudani/Piglet/master/img/piglet_arc.png)
